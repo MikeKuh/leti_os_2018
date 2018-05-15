@@ -25,7 +25,7 @@ start:          push    AX
 OVERLAY_PROC ENDP
 
 
-OVL_MSG db 'ë•£¨•≠‚≠Î© †§‡•· Æ¢•‡´•©≠Æ£Æ ·•£¨•≠‚† ¸1:     H.',  0Dh, 0Ah, '$'
+OVL_MSG db '–°–µ–≥–º–µ–Ω—Ç–Ω—ã–π –∞–¥—Ä–µ—Å –æ–≤–µ—Ä–ª–µ–π–Ω–æ–≥–æ —Å–µ–≥–º–µ–Ω—Ç–∞ ‚Ññ2:     H.',  0Dh, 0Ah, '$'
 
 
 TETR_TO_HEX PROC NEAR
